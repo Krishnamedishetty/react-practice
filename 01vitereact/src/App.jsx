@@ -1,8 +1,16 @@
+import Chai from './chai'
+import Sayhi from './sayhi'
 
 function App() {
 
   return (
-    <h1>Hello World in vite</h1>
+    <>
+    <Chai />
+    <Sayhi/>
+    <h1>Hello World</h1>
+    <p>This is Vite env</p>
+
+    </>
   )
 }
 

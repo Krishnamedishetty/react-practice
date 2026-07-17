@@ -1,0 +1,13 @@
+body {
+    background-color: #313131;
+    color: white;
+}
+
+.error-msg {
+    border: 1px red solid;
+
+}
+.input-error {
+    border: 1px red solid;
+    color: red;
+}

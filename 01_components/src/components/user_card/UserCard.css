@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times Now Roman', Times, serif; 
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    color: white;
+    
+}
+
+.user-container {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin:20px;
+    background-color: lightgreen;
+    border-radius: 15px;
+    color: black;
+    
+    align-items: center;
+
+}
+
+#userimage{
+    height: 50px;
+    width: 50px;
+
+}
+
